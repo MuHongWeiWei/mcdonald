@@ -6,4 +6,7 @@
     <color name="blue">#3A42F4</color>
     <color name="red">#E82C0C</color>
     <color name="green">#F5B309</color>
+    <color name="popular_yellow">#82CC00</color>
+    <color name="popular_blue">#283B51</color>
+    <color name="popular_cyan">#EAF5D2</color>
 </resources>
